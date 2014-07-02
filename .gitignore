@@ -1,0 +1,14 @@
+.*
+!.gitignore
+.classpath
+log/
+**/target/
+
+# Intellij
+**/.idea/
+**/*.iml
+*.iml
+**/*.iws
+
+# Mac
+**/.DS_Store
